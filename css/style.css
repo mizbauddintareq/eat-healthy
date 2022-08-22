@@ -172,3 +172,22 @@ nav ul li a:hover {
   letter-spacing: 2px;
 }
 /* Social Section Styles Ends */
+
+/* Footer Section Styles Starts */
+footer {
+  background-color: black;
+  text-align: center;
+  padding: 70px;
+}
+footer span {
+  color: #fba24f;
+}
+footer h1 {
+  color: #5b5b5b;
+  font-weight: 700;
+}
+footer p {
+  margin-top: 20px;
+  color: #ffffff;
+}
+/* Footer Section Styles Ends */
