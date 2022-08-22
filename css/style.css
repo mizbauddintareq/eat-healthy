@@ -111,9 +111,6 @@ nav ul li a:hover {
 /* About Section Styles Ends */
 
 /* Recipe Section Styles Starts */
-.recipe-section {
-  margin-bottom: 100px;
-}
 .recipe-intro {
   text-align: center;
   margin-bottom: 100px;
@@ -154,3 +151,24 @@ nav ul li a:hover {
   width: 100%;
 }
 /* Recipe Section Styles Ends */
+
+/* Social Section Styles Starts */
+.social-section {
+  margin: 100px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 80px 0;
+  border-radius: 15px;
+}
+.social {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.social h1 {
+  font-size: 50px;
+}
+.social p {
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
+/* Social Section Styles Ends */
