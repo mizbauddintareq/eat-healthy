@@ -109,3 +109,48 @@ nav ul li a:hover {
   width: 80%;
 }
 /* About Section Styles Ends */
+
+/* Recipe Section Styles Starts */
+.recipe-section {
+  margin-bottom: 100px;
+}
+.recipe-intro {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.recipe-intro h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+.recipe-intro p {
+  margin-top: 40px;
+  letter-spacing: 2px;
+  line-height: 1.6;
+}
+.recipe {
+  margin: 0 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.recipe h3 {
+  font-weight: bold;
+  margin-top: 20px;
+}
+.recipe p {
+  margin: 20px 0;
+  letter-spacing: 2px;
+  line-height: 1.7;
+}
+.recipe-left,
+.recipe-right {
+  width: 40%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 20px;
+  border-radius: 15px;
+}
+.recipe-left img,
+.recipe-right img {
+  width: 100%;
+}
+/* Recipe Section Styles Ends */
